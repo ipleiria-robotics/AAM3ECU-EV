@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : MCP2515_SOIC18-I_SO.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\MCP2515_SOIC18-I_SO.lia
+    Section : PCB Library - MCP2515_SOIC18-I_SO.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCP2515-I/SO On Line 283
+            Warning - 1 : Skipping Token attachedSymbol On Line 490
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCP2515_SOIC18-I_SO.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 198
+        EndSection
+
+        Section : Generating SCH Library - MCP2515_SOIC18-I_SO.SchLib
+        EndSection
+    EndSection
+EndSection

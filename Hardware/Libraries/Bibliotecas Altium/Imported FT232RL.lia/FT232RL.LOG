@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : FT232RL.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\FT232RL.lia
+    Section : PCB Library - FT232RL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FT232RL On Line 465
+            Warning - 1 : Skipping Token attachedSymbol On Line 752
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FT232RL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 285
+            Warning - 1 : Skipping Token layerContents On Line 456
+            Warning - 1 : Skipping Token isVisible On Line 705
+        EndSection
+
+        Section : Generating SCH Library - FT232RL.SchLib
+        EndSection
+    EndSection
+EndSection

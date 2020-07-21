@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 0805_resistor.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\0805_resistor.lia
+    Section : PCB Library - 0805_resistor.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1625873-5 On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 171
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 0805_resistor.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - 0805_resistor.SchLib
+        EndSection
+    EndSection
+EndSection

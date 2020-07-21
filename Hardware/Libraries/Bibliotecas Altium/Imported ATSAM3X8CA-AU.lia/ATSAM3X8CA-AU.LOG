@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ATSAM3X8CA-AU.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\ATSAM3X8CA-AU.lia
+    Section : PCB Library - ATSAM3X8CA-AU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATSAM3X8CA-AU On Line 1410
+            Warning - 1 : Skipping Token attachedSymbol On Line 2437
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATSAM3X8CA-AU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 186
+            Warning - 1 : Skipping Token layerContents On Line 194
+            Warning - 1 : Skipping Token layerContents On Line 200
+            Warning - 1 : Skipping Token layerContents On Line 804
+        EndSection
+
+        Section : Generating SCH Library - ATSAM3X8CA-AU.SchLib
+        EndSection
+    EndSection
+EndSection

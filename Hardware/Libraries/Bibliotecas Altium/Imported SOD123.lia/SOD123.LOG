@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : SOD123.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\SOD123.lia
+    Section : PCB Library - SOD123.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MMSZ5224BT1G On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 169
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SOD3716X117N][Primary] associated with PCAD Component [MMSZ5224BT1G] has been renamed to PCB FootPrint [*SOD3716X117N_MMSZ5224BT1G(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - SOD123.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 111
+        EndSection
+
+        Section : Generating SCH Library - SOD123.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SOD3716X117N][Primary] associated with PCAD Component [MMSZ5224BT1G] has been renamed to PCB FootPrint [*SOD3716X117N_MMSZ5224BT1G(Primary)].
+        EndSection
+    EndSection
+EndSection

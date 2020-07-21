@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : CRYSTAL 12MHZ.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\CRYSTAL 12MHZ.lia
+    Section : PCB Library - CRYSTAL 12MHZ.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-120-12-33Q-JES-TR On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 188
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CRYSTAL 12MHZ.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - CRYSTAL 12MHZ.SchLib
+        EndSection
+    EndSection
+EndSection

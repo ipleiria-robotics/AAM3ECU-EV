@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : CRYSTAL 32.786kHz.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\CRYSTAL 32.786kHz.lia
+    Section : PCB Library - CRYSTAL 32.786kHz.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-.327-9-39-TR On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CRYSTAL 32.786kHz.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - CRYSTAL 32.786kHz.SchLib
+        EndSection
+    EndSection
+EndSection

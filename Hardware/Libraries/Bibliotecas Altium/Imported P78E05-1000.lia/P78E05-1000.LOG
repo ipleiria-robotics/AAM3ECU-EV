@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : P78E05-1000.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\P78E05-1000.lia
+    Section : PCB Library - P78E05-1000.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token P78E05-1000 On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 184
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - P78E05-1000.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 123
+        EndSection
+
+        Section : Generating SCH Library - P78E05-1000.SchLib
+        EndSection
+    EndSection
+EndSection

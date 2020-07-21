@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : header 2 pin.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\header 2 pin.lia
+    Section : PCB Library - header 2 pin.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 5-146274-3 On Line 125
+            Warning - 1 : Skipping Token attachedSymbol On Line 188
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - header 2 pin.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 116
+        EndSection
+
+        Section : Generating SCH Library - header 2 pin.SchLib
+        EndSection
+    EndSection
+EndSection

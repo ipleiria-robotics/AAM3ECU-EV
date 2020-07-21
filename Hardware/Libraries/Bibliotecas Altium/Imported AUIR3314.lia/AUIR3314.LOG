@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : AUIR3314.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\AUIR3314.lia
+    Section : PCB Library - AUIR3314.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM2576D2TR4-5G On Line 241
+            Warning - 1 : Skipping Token attachedSymbol On Line 328
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AUIR3314.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 188
+        EndSection
+
+        Section : Generating SCH Library - AUIR3314.SchLib
+        EndSection
+    EndSection
+EndSection

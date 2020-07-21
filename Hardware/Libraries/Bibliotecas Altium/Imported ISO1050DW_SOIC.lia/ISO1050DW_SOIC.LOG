@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ISO1050DW_SOIC.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\ISO1050DW_SOIC.lia
+    Section : PCB Library - ISO1050DW_SOIC.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ISO1050DW On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 282
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ISO1050DW_SOIC.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - ISO1050DW_SOIC.SchLib
+        EndSection
+    EndSection
+EndSection

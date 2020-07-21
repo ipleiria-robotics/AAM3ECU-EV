@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : ISO1050DUB.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\ISO1050DUB.lia
+    Section : PCB Library - ISO1050DUB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ISO1050DUB On Line 193
+            Warning - 1 : Skipping Token attachedSymbol On Line 300
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ISO1050DUB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 180
+        EndSection
+
+        Section : Generating SCH Library - ISO1050DUB.SchLib
+        EndSection
+    EndSection
+EndSection

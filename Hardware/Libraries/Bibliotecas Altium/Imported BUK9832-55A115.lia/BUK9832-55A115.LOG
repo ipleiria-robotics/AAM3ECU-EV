@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : BUK9832-55A115.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\BUK9832-55A115.lia
+    Section : PCB Library - BUK9832-55A115.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BUK9832-55A115 On Line 141
+            Warning - 1 : Skipping Token attachedSymbol On Line 208
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - BUK9832-55A115.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 130
+        EndSection
+
+        Section : Generating SCH Library - BUK9832-55A115.SchLib
+        EndSection
+    EndSection
+EndSection

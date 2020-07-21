@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : USB MINI B.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\USB MINI B.lia
+    Section : PCB Library - USB MINI B.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 163
+            Warning - 1 : Skipping Token isVisible On Line 175
+            Warning - 1 : Skipping Token UJ2-MBH-2-SMT On Line 182
+            Warning - 1 : Skipping Token attachedSymbol On Line 300
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CUI_UJ2-MBH-2-SMT][Primary] associated with PCAD Component [UJ2-MBH-2-SMT] has been renamed to PCB FootPrint [*CUI_UJ2-MBH-2-SMT_UJ2-MBH-2-SMT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - USB MINI B.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token layerContents On Line 168
+        EndSection
+
+        Section : Generating SCH Library - USB MINI B.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CUI_UJ2-MBH-2-SMT][Primary] associated with PCAD Component [UJ2-MBH-2-SMT] has been renamed to PCB FootPrint [*CUI_UJ2-MBH-2-SMT_UJ2-MBH-2-SMT(Primary)].
+        EndSection
+    EndSection
+EndSection

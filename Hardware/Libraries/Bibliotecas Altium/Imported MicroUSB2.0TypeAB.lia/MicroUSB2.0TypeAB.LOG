@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : MicroUSB2.0TypeAB.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\MicroUSB2.0TypeAB.lia
+    Section : PCB Library - MicroUSB2.0TypeAB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 183
+            Warning - 1 : Skipping Token isVisible On Line 228
+            Warning - 1 : Skipping Token 1981584-1 On Line 245
+            Warning - 1 : Skipping Token attachedSymbol On Line 384
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MicroUSB2.0TypeAB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 198
+            Warning - 1 : Skipping Token layerContents On Line 204
+        EndSection
+
+        Section : Generating SCH Library - MicroUSB2.0TypeAB.SchLib
+        EndSection
+    EndSection
+EndSection

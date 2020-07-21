@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : DTM1312PA12PBR008.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\DTM1312PA12PBR008.lia
+    Section : PCB Library - DTM1312PA12PBR008.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DTM1312PA12PBR008 On Line 242
+            Warning - 1 : Skipping Token attachedSymbol On Line 511
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TE_DTM1312PA12PBR008][Primary] associated with PCAD Component [DTM1312PA12PBR008] has been renamed to PCB FootPrint [*TE_DTM1312PA12PBR008_DTM1312PA12PBR008(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - DTM1312PA12PBR008.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 158
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token layerContents On Line 202
+        EndSection
+
+        Section : Generating SCH Library - DTM1312PA12PBR008.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TE_DTM1312PA12PBR008][Primary] associated with PCAD Component [DTM1312PA12PBR008] has been renamed to PCB FootPrint [*TE_DTM1312PA12PBR008_DTM1312PA12PBR008(Primary)].
+        EndSection
+    EndSection
+EndSection

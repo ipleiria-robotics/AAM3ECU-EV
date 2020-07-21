@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : SMD-RES-39R-5_-1_10W_0603_.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\SMD-RES-39R-5_-1_10W_0603_.lia
+    Section : PCB Library - SMD-RES-39R-5_-1_10W_0603_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RES On Line 104
+            Warning - 1 : Skipping Token attachedSymbol On Line 151
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SMD-RES-39R-5_-1_10W_0603_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 96
+        EndSection
+
+        Section : Generating SCH Library - SMD-RES-39R-5_-1_10W_0603_.SchLib
+        EndSection
+    EndSection
+EndSection

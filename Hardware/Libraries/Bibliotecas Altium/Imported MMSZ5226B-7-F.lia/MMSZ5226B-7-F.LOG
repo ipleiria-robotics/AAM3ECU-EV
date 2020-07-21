@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : MMSZ5226B-7-F.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\MMSZ5226B-7-F.lia
+    Section : PCB Library - MMSZ5226B-7-F.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MMSZ5226B-7-F On Line 117
+            Warning - 1 : Skipping Token attachedSymbol On Line 169
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MMSZ5226B-7-F.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - MMSZ5226B-7-F.SchLib
+        EndSection
+    EndSection
+EndSection

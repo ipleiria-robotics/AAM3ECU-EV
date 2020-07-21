@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : CRYSTAL HC49_US.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\CRYSTAL HC49_US.lia
+    Section : PCB Library - CRYSTAL HC49_US.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FOXSDLF/160-20 On Line 153
+            Warning - 1 : Skipping Token attachedSymbol On Line 206
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CRYSTAL HC49_US.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 132
+            Warning - 1 : Skipping Token layerContents On Line 145
+        EndSection
+
+        Section : Generating SCH Library - CRYSTAL HC49_US.SchLib
+        EndSection
+    EndSection
+EndSection

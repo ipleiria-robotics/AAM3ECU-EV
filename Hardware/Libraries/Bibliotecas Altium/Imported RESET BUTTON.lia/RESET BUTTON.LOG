@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : RESET BUTTON.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\RESET BUTTON.lia
+    Section : PCB Library - RESET BUTTON.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 5-1437565-0 On Line 124
+            Warning - 1 : Skipping Token attachedSymbol On Line 199
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RESET BUTTON.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 113
+        EndSection
+
+        Section : Generating SCH Library - RESET BUTTON.SchLib
+        EndSection
+    EndSection
+EndSection

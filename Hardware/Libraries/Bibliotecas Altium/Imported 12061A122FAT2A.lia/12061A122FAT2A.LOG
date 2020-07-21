@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 12061A122FAT2A.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\12061A122FAT2A.lia
+    Section : PCB Library - 12061A122FAT2A.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 12061A122FAT2A On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 171
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 12061A122FAT2A.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - 12061A122FAT2A.SchLib
+        EndSection
+    EndSection
+EndSection

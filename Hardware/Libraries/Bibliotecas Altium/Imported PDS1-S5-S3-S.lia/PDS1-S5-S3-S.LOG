@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : PDS1-S5-S3-S.LibPkg
+
+Section : C:\Users\Alexandre Francisco\Dropbox\ECUVEH\02_DEVELOPMENT\myECU\Componentes e Circuitos Eletricos\Bibliotecas Altium\PDS1-S5-S3-S.lia
+    Section : PCB Library - PDS1-S5-S3-S.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PDS1-S5-S3-S On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 203
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PDS1-S5-S3-S.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 126
+        EndSection
+
+        Section : Generating SCH Library - PDS1-S5-S3-S.SchLib
+        EndSection
+    EndSection
+EndSection
