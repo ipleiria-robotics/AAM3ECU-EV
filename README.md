@@ -5,7 +5,7 @@ Arduino ARM M3 Engine Control Unit for Electric Vehicles
 This projects represents the design and development of a low cost ECU, henceforth known as Arduino ARM M3 Engine Control Unit for Electric Vehicles (AAM3ECU-EV), aimed for electric utility vehicles. The main contributions of this work are: the AAM3ECU-EV overall cost is low; the parametrization learning curve is fast due to the use of Arduino framework; safety measures are included by means of Bus isolation, outputs current and temperature shutdown. Moreover the Hardware and Software of the AAM3ECU-EV is open source.
 
 ## Block Diagram of AAM3ECU-EV
-![imagem](https://user-images.githubusercontent.com/68593587/88093405-e3248180-cb89-11ea-93e3-ed1bfbf1dc7a.png)
+![imagem](https://user-images.githubusercontent.com/68593587/88093967-aefd9080-cb8a-11ea-8a3f-5bc2063a938c.png)
 
 ## Prototype Top View
 ![imagem](https://user-images.githubusercontent.com/68593587/88093504-00595000-cb8a-11ea-9a7c-dd02dda2674d.png)
