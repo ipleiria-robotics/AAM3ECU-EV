@@ -1,7 +1,7 @@
 # AAM3ECU-EV
 Arduino ARM M3 Engine Control Unit for Electric Vehicles
 
-If you use this software please cite one of the following paper:
+If you use this software/hardware please cite one of the following paper:
 1) A. Francisco, N. V. Lopes, L. C. Bento and C. Ferreira, "Arduino based Open Source Electronic Control Unit for Electric Utility Vehicles," 2020 XXIX International Scientific Conference Electronics (ET), Sozopol, Bulgaria, 2020, pp. 1-4, 
 doi: 10.1109/ET50336.2020.9238205.
 
