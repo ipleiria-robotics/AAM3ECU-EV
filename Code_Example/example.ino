@@ -1,3 +1,41 @@
+//--------------------------------------------------------------------------
+// AAM3ECU-EV
+// Copyright (C) 2020
+//
+//--------------------------------------------------------------------------
+// This  file is part of the AAM3ECU-EV: a Arduino
+// ARM M3 Engine Control Unit for Electric Vehicles
+//
+//-CITATION---------------------------------------------------------------------------
+// If you use this software please cite one of the following papers:
+// 1) A. Francisco, N. V. Lopes, L. C. Bento and C. Ferreira, "Arduino based 
+// Open Source Electronic Control Unit for Electric Utility Vehicles," 
+// 2020 XXIX International Scientific Conference Electronics (ET), Sozopol, 
+// Bulgaria, 2020, pp. 1-4, doi: 10.1109/ET50336.2020.9238205.
+//
+//-DESCRIPTION--------------------------------------------------------------
+//
+// Simulator initialization
+//
+//-DISCLAIMER---------------------------------------------------------------
+// This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY;
+// without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+// You can use this source code without licensing fees only for NON-COMMERCIAL research
+// and EDUCATIONAL purposes only.
+// You cannot repost this file without prior written permission from the authors.
+//
+//-AUTHORS------------------------------------------------------------------
+// Aalexandre Francisco*
+// Nuno Vieira Lopes *+
+// Luis Conde Bento*$
+// Carlos Ferreira *#
+//
+// *Polytechnic Institute of Leiria, Leiria, Portugal
+// +Center for Innovative Care and Health Technology, Leiria, Portugal
+// $Institute for Systems and Robotics, Coimbra, Portugal
+// #INESC Coimbra, DEEC, Rua Sílvio Lima, Polo II, Coimbra, Portugal
+//--------------------------------------------------------------------------
+
 #include "variant.h"
 #include <due_can.h>
 
